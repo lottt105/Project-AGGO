@@ -7,3 +7,4 @@ This was made for 13 hours with colleagues as a Hackathon assignment.
 
 We plan to fix the errors later.
 
+develop period : 2019/11/23 ~ 2019/11/24
